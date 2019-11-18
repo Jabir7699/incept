@@ -220,19 +220,19 @@ footer .column i+i{
 	color:tomato;
 }
 */
-@media only screen and(max-width:365px){
-    body{
-        background: red;
-    }
+@media(max-width:365px){
+   
+        
+
     .cover .content {
     /*    background: rgba(0, 0, 0, 0,7);*/
-        height: 2px;
+        height: 200px;
         width: auto;
         padding-top: 19vmin; 
 }
 .cover {
     width: auto;
-    height: 100px;
+    height: 750px;
     background-size: 150%;
     position: relative;
 }
